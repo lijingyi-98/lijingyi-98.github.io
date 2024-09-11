@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. degree at School of Computer Science and Engineering, Sun Yat-Sen University (SYSU), co-supvised by Prof. <a href='https://chen-website.github.io/'>Lin Chen a>, and Prof. <a href='https://sites.google.com/view/xcsysu/home?pli=1'Xu Chen a>. Prior to joining SYSU, I obtained my B.Eng. and B.A. (double degree) from South China University of Technology (SCUT).
+I am pursuing my Ph.D. degree at School of Computer Science and Engineering, Sun Yat-Sen University (SYSU), co-supvised by <a href='https://chen-website.github.io/'> Prof. Lin Chen </a>, and <a href='https://sites.google.com/view/xcsysu/home?pli=1'> Prof. Xu Chen </a>. Prior to joining SYSU, I obtained my B.Eng. and B.A. (double degree) from South China University of Technology (SCUT).
 
 My interest includes edge intelligence and privacy preservation. Recently, I have focused on issues related to large models inference and training at edge. 
 
