@@ -51,7 +51,12 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
  
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks, **Jingyi Li**, Guocheng Liao, Lin Chen, Xu Chen. IEEE Transactions on Mobile Computing (TMC), 2023. 
+- Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks. **Jingyi Li**, Guocheng Liao, Lin Chen, Xu Chen. IEEE Transactions on Mobile Computing (TMC), 2023.
+- Chained-DP: Can We Recycle Privacy Budget? **Jingyi Li**, Guangjing Huang, Liekang Zeng, Lin Chen, Xu Chen. IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023.
+- Sequential Privacy Budget Recycling for Federated Vector Mean Estimation: A Game-Theoretic Approach. **Jingyi Li**, Guangjing Huang, Leikang Zeng, Lin Chen, Xu Chen. IEEE Transactions on Mobile Computing (TMC), 2024.
+- Revisiting Location Privacy in MEC-Enabled Computation Offloading. **Jingyi Li**, Wenzhong Ou, Bei Ouyang, Shengyuan Ye, Liekang Zeng, Lin Chen, Xu Chen. Under review.
+- Design and Optimization of Hierarchical Gradient Coding for Distributed Learning at Edge Devices. Weiheng Tang, **Jingyi Li**, Lin Chen, Xu Chen. IEEE Transactions on Communication (TCOM), 2024.
+- Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-tuning. Bei Ouyang, Shengyuan Ye, Liekang Zeng, Tianyi Qian, **Jingyi Li**, Xu Chen In International Conference on Parallel Processing (ICPP), 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
