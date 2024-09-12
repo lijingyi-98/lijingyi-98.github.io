@@ -66,4 +66,4 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 - *2023.06*, Chained-DP: Can We Recycle Privacy Budget? IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
 
 # 💻 Internships
-- *2019.9 - 2019.11*, [High Fund](https://http://www.highfund.com.cn/), Guangzhou.
+- *2019.9 - 2019.11*, [High Fund](http://www.highfund.com.cn/), Guangzhou.
