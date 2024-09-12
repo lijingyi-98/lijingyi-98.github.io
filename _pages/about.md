@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing my Ph.D. degree at School of Computer Science and Engineering, Sun Yat-Sen University (SYSU), co-supvised by <a href='https://chen-website.github.io/'> Prof. Lin Chen </a>, and <a href='https://sites.google.com/view/xcsysu/home?pli=1'> Prof. Xu Chen </a>. Prior to joining SYSU, I obtained my B.Eng. and B.A. (double degree) from South China University of Technology (SCUT).
 
-My interest includes edge intelligence and privacy preservation. Recently, I have focused on issues related to large models inference and training at edge. 
+My interest includes edge intelligence and privacy preservation. Recently, I have focused on large models at edge. 
 
 
 # 🔥 News
@@ -59,7 +59,7 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
 
 # 💬 Invited Talks
-- *2023.06*, Chained-DP: Can We Recycle Privacy Budget? IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
+- *2023.06*, IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
 
 # 💻 Internships
 - *2019.9 - 2019.11*, [High Fund](http://www.highfund.com.cn/), Guangzhou.
