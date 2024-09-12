@@ -24,10 +24,6 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 
 # 🔥 News
 💥 I anticipate graduating in 2025 and am open to research positions. If you are interested, please feel free to contact me. 💥 
-<!-- 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
  
 # 📝 Publications 
 <!-- 
