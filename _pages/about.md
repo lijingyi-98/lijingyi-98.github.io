@@ -54,7 +54,7 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 - Bei Ouyang, Shengyuan Ye, Liekang Zeng, Tianyi Qian, **Jingyi Li**, Xu Chen. Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-tuning. In International Conference on Parallel Processing (ICPP), 2024.
 
 # 🎖 Honors and Awards
-- *2022-2024* Academic First Class Scholarship at SYSU
+- *2022-2024* Academic First Class Scholarship at SYSU.
 - *2019.10* National Scholarship. 
 - *2018.10* Samsung Scholarship. 
 
