@@ -21,10 +21,9 @@ I am pursuing my Ph.D. degree at School of Computer Science and Engineering, Sun
 
 My interest includes edge intelligence and privacy preservation. Recently, I have focused on issues related to large models inference and training at edge. 
 
-💥 I anticipate graduating in 2025 and am open to research positions. If you are interested, please feel free to contact me. 💥 
-
 
 # 🔥 News
+💥 I anticipate graduating in 2025 and am open to research positions. If you are interested, please feel free to contact me. 💥 
 <!-- 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -47,24 +46,24 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
  
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks. **Jingyi Li**, Guocheng Liao, Lin Chen, Xu Chen. IEEE Transactions on Mobile Computing (TMC), 2023.
-- Chained-DP: Can We Recycle Privacy Budget? **Jingyi Li**, Guangjing Huang, Liekang Zeng, Lin Chen, Xu Chen. IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023.
-- Sequential Privacy Budget Recycling for Federated Vector Mean Estimation: A Game-Theoretic Approach. **Jingyi Li**, Guangjing Huang, Leikang Zeng, Lin Chen, Xu Chen. IEEE Transactions on Mobile Computing (TMC), 2024.
-- Revisiting Location Privacy in MEC-Enabled Computation Offloading. **Jingyi Li**, Wenzhong Ou, Bei Ouyang, Shengyuan Ye, Liekang Zeng, Lin Chen, Xu Chen. Under review.
-- Design and Optimization of Hierarchical Gradient Coding for Distributed Learning at Edge Devices. Weiheng Tang, **Jingyi Li**, Lin Chen, Xu Chen. IEEE Transactions on Communication (TCOM), 2024.
-- Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-tuning. Bei Ouyang, Shengyuan Ye, Liekang Zeng, Tianyi Qian, **Jingyi Li**, Xu Chen In International Conference on Parallel Processing (ICPP), 2024.
+- **Jingyi Li**, Guocheng Liao, Lin Chen, Xu Chen. Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks. IEEE Transactions on Mobile Computing (TMC), 2023.
+- **Jingyi Li**, Guangjing Huang, Liekang Zeng, Lin Chen, Xu Chen. Chained-DP: Can We Recycle Privacy Budget? IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023.
+- **Jingyi Li**, Guangjing Huang, Leikang Zeng, Lin Chen, Xu Chen. Sequential Privacy Budget Recycling for Federated Vector Mean Estimation: A Game-Theoretic Approach.  IEEE Transactions on Mobile Computing (TMC), 2024.
+- **Jingyi Li**, Wenzhong Ou, Bei Ouyang, Shengyuan Ye, Liekang Zeng, Lin Chen, Xu Chen. Revisiting Location Privacy in MEC-Enabled Computation Offloading. Under review.
+- Weiheng Tang, **Jingyi Li**, Lin Chen, Xu Chen. Design and Optimization of Hierarchical Gradient Coding for Distributed Learning at Edge Devices. IEEE Transactions on Communication (TCOM), 2024.
+- Bei Ouyang, Shengyuan Ye, Liekang Zeng, Tianyi Qian, **Jingyi Li**, Xu Chen. Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-tuning. In International Conference on Parallel Processing (ICPP), 2024.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022-2024* Academic First Class Scholarship at SYSU
+- *2019.10* National Scholarship. 
+- *2018.10* Samsung Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - 2025.07 (expected)*, Master and Ph.D., Sun Yat sen University, Guangzhou.
+- *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [videovideo](https://github.com/)
+- *2023.06*, Chained-DP: Can We Recycle Privacy Budget? IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.9 - 2019.11*, [High Fund](https://http://www.highfund.com.cn/), Guangzhou.
