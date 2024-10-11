@@ -44,10 +44,11 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 - **Jingyi Li**, Guocheng Liao, Lin Chen, Xu Chen. Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks. IEEE Transactions on Mobile Computing (TMC), 2023.
 - **Jingyi Li**, Guangjing Huang, Liekang Zeng, Lin Chen, Xu Chen. Chained-DP: Can We Recycle Privacy Budget? IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 2023.
-- **Jingyi Li**, Guangjing Huang, Leikang Zeng, Lin Chen, Xu Chen. Sequential Privacy Budget Recycling for Federated Vector Mean Estimation: A Game-Theoretic Approach.  IEEE Transactions on Mobile Computing (TMC), Under review.
+- **Jingyi Li**, Guangjing Huang, Leikang Zeng, Lin Chen, Xu Chen. Sequential Privacy Budget Recycling for Federated Vector Mean Estimation: A Game-Theoretic Approach.  IEEE Transactions on Mobile Computing (TMC), 2024.
 - **Jingyi Li**, Wenzhong Ou, Bei Ouyang, Shengyuan Ye, Liekang Zeng, Lin Chen, Xu Chen. Revisiting Location Privacy in MEC-Enabled Computation Offloading. Under review.
 - Weiheng Tang, **Jingyi Li**, Lin Chen, Xu Chen. Design and Optimization of Hierarchical Gradient Coding for Distributed Learning at Edge Devices. IEEE Transactions on Communication (TCOM), 2024.
 - Bei Ouyang, Shengyuan Ye, Liekang Zeng, Tianyi Qian, **Jingyi Li**, Xu Chen. Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-tuning. In International Conference on Parallel Processing (ICPP), 2024.
+- Guangjing Huang, Xu Chen, Qiong Wu, **Jingyi Li**, Qianyi Huang. Joint Client and Cross-Client Edge Selection for Cost-Efficient Federated Learning of Graph Convolutional Networks. IEEE/ACM Transactions on Networking (ToN), 2024.
 
 # 🎖 Honors and Awards
 - *2022-2024* Academic First Class Scholarship at SYSU.
@@ -58,9 +59,9 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 - *2020.06 - 2025.07 (expected)*, Master and Ph.D., Sun Yat sen University, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
 <!--
-# 💬 Invited Talks
-- *2023.06*, IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
--->
+#  Invited Talks
+- *2023.06*, IEEE/ACM 31st International Symposium on Quality of Service (IWQoS). -->
+
 
 # 💻 Internships
 - *2019.9 - 2019.11*, [High Fund](http://www.highfund.com.cn/), Guangzhou.
