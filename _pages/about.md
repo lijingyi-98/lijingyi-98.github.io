@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/491b1d7a-f6dc-424f-a6af-56de6a5b47fc)---
 permalink: /
 title: ""
 excerpt: ""
@@ -57,9 +57,22 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 # 📖 Educations
 - *2020.06 - 2025.07 (expected)*, Master and Ph.D., Sun Yat sen University, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
-
+<!--
 # 💬 Invited Talks
 - *2023.06*, IEEE/ACM 31st International Symposium on Quality of Service (IWQoS).
+-->
 
 # 💻 Internships
 - *2019.9 - 2019.11*, [High Fund](http://www.highfund.com.cn/), Guangzhou.
+
+# 💼 Academic Services
+- Journal Reviewer
+- - IEEE Transactions on Network Science and Engineering
+- Program Committee Member
+- - The 20th IFIP International Conference on Network and Parallel Computing (NPC 2024)
+- - The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)
+    
+
+# 👨‍🏫 TA Experience
+- Reinforcement Learning and Game Theory’ 2021 Fall
+- Edge Computing’ 2024 Spring
