@@ -66,10 +66,10 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 
 # 💼 Academic Services
 - Journal Reviewer
-- - IEEE Transactions on Network Science and Engineering
+  - IEEE Transactions on Network Science and Engineering
 - Program Committee Member
-- - The 20th IFIP International Conference on Network and Parallel Computing (NPC 2024)
-- - The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)
+  - The 20th IFIP International Conference on Network and Parallel Computing (NPC 2024)
+  - The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)
     
 
 # 👨‍🏫 TA Experience
