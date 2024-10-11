@@ -58,6 +58,7 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 # 📖 Educations
 - *2020.06 - 2025.07 (expected)*, Master and Ph.D., Sun Yat sen University, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
+
 <!--
 #  Invited Talks
 - *2023.06*, IEEE/ACM 31st International Symposium on Quality of Service (IWQoS). -->
