@@ -52,6 +52,7 @@ My interest includes edge intelligence and privacy preservation. Recently, I hav
 
 # 🎖 Honors and Awards
 - *2022-2024* Academic First Class Scholarship at SYSU.
+- *2024.11* Junhai Scholarship.
 - *2019.10* National Scholarship. 
 - *2018.10* Samsung Scholarship. 
 
