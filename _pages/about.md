@@ -60,7 +60,7 @@ My interests were edge intelligence and privacy preservation during  my Ph.D. st
 - *2018.10* Samsung Scholarship. 
 
 # 📖 Educations
-- *2020.06 - 2025.07 (expected)*, Master and Ph.D., Sun Yat sen University, Guangzhou.
+- *2020.06 - 2025.07 *, Master and Ph.D., Sun Yat sen University, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou. 
 
 <!--
