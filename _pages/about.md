@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working in <a href='http://www.gzpec.cn/'> Guangzhou Power Exchange Center (GZPEC) </a>, which is the main operator of the biggest spot electricity market around the world. Before, I obtained my Ph.D. degree at School of Computer Science and Engineering, Sun Yat-Sen University (SYSU), co-supvised by <a href='https://chen-website.github.io/'> Prof. Lin Chen </a>, and <a href='https://sites.google.com/view/xcsysu/home?pli=1'> Prof. Xu Chen </a>. Prior to joining SYSU, I obtained my B.Eng. and B.A. (double degree) from South China University of Technology (SCUT).
+I am working in <a href='http://www.gzpec.cn/'> Guangzhou Power Exchange Center (GZPEC) </a>, which is the main operator of the biggest spot electricity market around the world. Before that, I obtained my Ph.D. degree at School of Computer Science and Engineering, Sun Yat-Sen University (SYSU), co-supvised by <a href='https://chen-website.github.io/'> Prof. Lin Chen </a>, and <a href='https://sites.google.com/view/xcsysu/home?pli=1'> Prof. Xu Chen </a>. Prior to joining SYSU, I obtained my B.Eng. and B.A. (double degree) from South China University of Technology (SCUT).
 
 My interests were edge intelligence and privacy preservation during  my Ph.D. studies. Recently, I have focused on LLM agents and Power markets. 
 
