@@ -23,7 +23,8 @@ My interests were edge intelligence and privacy preservation during  my Ph.D. st
 
 
 # 🔥 News
-💥 I joined GZPEC in July 2025. 💥 
+💥 I joined GZPEC in July 2025. New starting point, new journey！ I am open to collaborations with researchers in the fields of AI and the power market. 💥 
+
 ~~💥 I anticipate graduating in 2025 and am open to research positions. If you are interested, please feel free to contact me. 💥~~
  
 # 📝 Publications 
