@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyi Li (李竞宜)"
   avatar           : "images/ava-512x512.png"
-  bio              : "PhD Student at School of Computer Science and Engineering, Sun Yat-sen University (SYSU)"
+  bio              : "Work in GZPEC"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lijy573@mail2.sysu.edu.cn"
+  email            : "ljyauto@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
